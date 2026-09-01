@@ -1,21 +1,21 @@
 # V Praveen Kumar | R153nF3n1x
 
-Security analyst in transition. 5 years at LSEG (London Stock Exchange Group) 
-working in financial data operations, DORA compliance, and production Splunk 
-monitoring. Now building toward a full-time SOC/Security Analyst role.
+5 years at LSEG (London Stock Exchange Group) in financial data operations,
+DORA compliance verification across 400+ data sources, and production Splunk
+monitoring as sole point of contact for 20 metals datasets exceeding one million
+curves. Transitioning into SOC Analyst, Security Analyst, and GRC roles.
 
 ---
 
 ## What I Do
 
-- Built and operated Splunk dashboards and alert systems monitoring 150+ 
-  critical financial data sources in production at LSEG
-- Led DORA (Digital Operational Resilience Act) compliance verification 
-  across 400+ data sources
-- Co-built a SQL-based incident investigation tool that reduced data 
-  backfill time from weeks to 2-3 days across ~200 affected datasets
-- Investigating threats, analysing phishing emails, and practising 
-  incident response through TryHackMe SOC Level 1 path
+- Sole point of contact for Splunk dashboard and alert monitoring across 20 metals
+  datasets exceeding one million curves at LSEG
+- Led DORA (Digital Operational Resilience Act) compliance verification across
+  400+ data sources
+- Drove SQL-based incident investigation using pivot analysis to identify data gaps
+- 57 documented investigations across SOC Level 1, DFIR, phishing, OSINT,
+  AI security, exploitation, and CTF events
 
 ---
 
@@ -23,7 +23,7 @@ monitoring. Now building toward a full-time SOC/Security Analyst role.
 
 - TryHackMe SOC Level 1 path (active)
 - CompTIA Security+ (in progress)
-- Splunk home lab with BOTSv3 dataset (setting up)
+- Splunk BOTSv3 home lab (active)
 
 ---
 
@@ -37,24 +37,16 @@ monitoring. Now building toward a full-time SOC/Security Analyst role.
 
 ## Tools and Skills
 
-`Splunk` `SIEM` `SQL` `Python` `Log Analysis` `DORA Compliance`  
-`Incident Response` `Phishing Analysis` `OSINT` `DFIR` `Power BI`  
+`Splunk` `SIEM` `SQL` `Python` `Log Analysis` `DORA Compliance`
+`Incident Response` `Phishing Analysis` `OSINT` `DFIR` `Power BI`
 `Linux` `Kali Linux` `Wireshark` `VirusTotal` `GRC`
 
 ---
 
 ## Investigation Writeups
 
-Active writeup repository covering SOC Level 1 rooms, AI security 
-challenges, phishing analysis, DFIR, and OSINT investigations.
-
-Categories covered:
-- DFIR and Ransomware Analysis
-- Phishing and Email Forensics
-- OSINT Investigation
-- AI Security and Prompt Injection
-- Incident Response
-- Network Analysis
+57 documented investigations covering SOC Level 1, AI security, phishing
+analysis, DFIR, OSINT, exploitation, and CTF events.
 
 [View Writeups](https://github.com/R153nF3n1x/tryhackme-writeups)
 
@@ -64,8 +56,9 @@ Categories covered:
 
 - TryHackMe: [RisenFenix](https://tryhackme.com/p/RisenFenix)
 - LinkedIn: [vpraveenkumar1202](https://linkedin.com/in/vpraveenkumar1202)
+- Portfolio: [r153nf3n1x.github.io](https://r153nf3n1x.github.io)
 
 ---
 
-*Open to SOC Analyst, Security Analyst, and GRC roles internationally. 
-Visa sponsorship required. Available from July 2026.*
+*Open to SOC Analyst, Security Analyst, and GRC roles internationally.
+Visa sponsorship required. Available immediately.*
