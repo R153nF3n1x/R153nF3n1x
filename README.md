@@ -21,8 +21,7 @@ curves. Transitioning into SOC Analyst, Security Analyst, and GRC roles.
 
 ## Currently Learning
 
-- TryHackMe SOC Level 1 path (active)
-- CompTIA Security+ (in progress)
+- TryHackMe SOC Level 1 path (SAL1 certified)
 - Splunk BOTSv3 home lab (active)
 
 ---
