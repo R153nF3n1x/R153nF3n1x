@@ -30,7 +30,7 @@ curves. Transitioning into SOC Analyst, Security Analyst, and GRC roles.
 
 - ISC2 Certified in Cybersecurity (CC) - 2026
 - Google Cybersecurity Certificate - 2024
-- Intro to Splunk - 2024
+- Intro to Splunk - 2025
 
 ---
 
